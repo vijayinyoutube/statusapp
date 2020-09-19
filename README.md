@@ -2,13 +2,13 @@
 
 A simple story view app using Flutter
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/58719230/93668978-229a1c00-faae-11ea-950c-5287fea5cdd3.png" width="100%">
-</p>
-
 
 [![BUILD](https://img.shields.io/badge/Build-Passing-<COLOR>.svg)](https://github.com/vijayinyoutube/statusapp)  [![vijaycreations](https://img.shields.io/website-up-vijaycreations-green-orange/http/cv.lbesson.qc.to.svg)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [![Repo Status](https://img.shields.io/badge/RepoStatus-Active-blue.svg)](https://github.com/vijayinyoutube/statusapp) [![MIT license](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/vijayinyoutube/statusapp) [![Flutter](https://img.shields.io/badge/Built_using-Flutter-blue.svg)](https://github.com/vijayinyoutube/statusapp)
 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/58719230/93668978-229a1c00-faae-11ea-950c-5287fea5cdd3.png" width="100%">
+</p>
 
 ## Flutter
 [Flutter](https://flutter.dev/) is a crossplatfrom UI tool kit that helps in developing native Android and iOS app from a single code base.
