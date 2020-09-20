@@ -16,6 +16,9 @@ A simple story view app using Flutter
 ## App
 This app is a demonstration of how to use ```storyview``` widget in Flutter.
 
+To know more awesome content about Flutter., 
+
+Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 
 ## Dependencies
 
